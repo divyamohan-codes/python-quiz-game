@@ -1,0 +1,10 @@
+What does CPU stand for?|Central Processing Unit
+Which language are we learning?|Python
+Which function displays output in Python?|print
+What symbol starts a comment in Python?|#
+Which data type stores whole numbers?|int
+Which keyword defines a function?|def
+Which loop repeats while a condition is true?|while
+Which function gets input from the user?|input
+Which keyword is used for decision making?|if
+What is the file extension for Python files?|.py
