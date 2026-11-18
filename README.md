@@ -34,3 +34,45 @@ This is a simple Python-based quiz game developed as part of my Python Engineeri
 
 ## Learning Outcomes
 Through this project, I practised Python functions, loops, conditional statements, file handling, lists and randomization.
+
+---
+
+## Week 2 – QuizCraft: Organized Quiz System
+
+### New Features
+> Organized questions into different decks.
+> Used Python classes to manage questions and quiz sessions.
+> Added multiple-choice quiz functionality.
+> Added player name support.
+> Stored quiz progress using JSON files.
+> Added a statistics menu to track quiz performance.
+> Saved progress even after closing the program.
+
+### Technologies Used
+> Python
+> Object-Oriented Programming (OOP)
+> JSON
+> VS Code
+
+### Project Files
+> `main.py` – Main program
+> `models.py` – Classes for quiz management
+> `storage.py` – Handles saving and loading data
+> `decks.json` – Stores quiz decks
+> `progress.json` – Stores player progress
+
+### How to Run
+1. Install Python.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run:
+
+```bash
+python main.py
+```
+
+### Learning Outcomes
+> Understanding Python classes and objects.
+> Organizing code into multiple files.
+> Working with JSON data.
+> Building a structured quiz application.
