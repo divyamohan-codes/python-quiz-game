@@ -1,0 +1,35 @@
+
+{
+  "Python": [
+    {
+      "text": "Which keyword is used to define a function in Python?",
+      "answer": "def",
+      "choices": ["class", "def", "return", "print"]
+    },
+    {
+      "text": "Which data type stores True or False?",
+      "answer": "bool"
+    },
+    {
+      "text": "Which symbol is used for comments in Python?",
+      "answer": "#",
+      "choices": ["//", "#", "/*", "$"]
+    }
+  ],
+  "DSA": [
+    {
+      "text": "Which data structure follows FIFO?",
+      "answer": "queue",
+      "choices": ["Stack", "Queue", "Tree", "Graph"]
+    },
+    {
+      "text": "Which data structure uses LIFO?",
+      "answer": "stack"
+    },
+    {
+      "text": "What is the time complexity of accessing an array element by index?",
+      "answer": "O(1)",
+      "choices": ["O(n)", "O(log n)", "O(1)", "O(n²)"]
+    }
+  ]
+}
