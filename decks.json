@@ -1,0 +1,106 @@
+{
+    "Python": [
+        {
+            "text": "Which keyword is used to define a function in Python?",
+            "answer": "def",
+            "choices": [
+                "class",
+                "def",
+                "return",
+                "print"
+            ]
+        },
+        {
+            "text": "Which data type stores True or False?",
+            "answer": "bool"
+        },
+        {
+            "text": "Which symbol is used for comments in Python?",
+            "answer": "#",
+            "choices": [
+                "//",
+                "#",
+                "/*",
+                "$"
+            ]
+        }
+    ],
+    "DSA": [
+        {
+            "text": "Which data structure follows FIFO?",
+            "answer": "queue",
+            "choices": [
+                "Stack",
+                "Queue",
+                "Tree",
+                "Graph"
+            ]
+        },
+        {
+            "text": "Which data structure uses LIFO?",
+            "answer": "stack"
+        },
+        {
+            "text": "What is the time complexity of accessing an array element by index?",
+            "answer": "O(1)",
+            "choices": [
+                "O(n)",
+                "O(log n)",
+                "O(1)",
+                "O(n\u00b2)"
+            ]
+        }
+    ],
+    "Divya": [
+        {
+            "text": "Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"?",
+            "answer": "LazyTown",
+            "choices": [
+                "Sofia the First",
+                "DuckTales",
+                "Tom and Jerry",
+                "LazyTown"
+            ]
+        },
+        {
+            "text": "Ozzy Osbourne was the lead singer for what metal band?",
+            "answer": "Black Sabbath",
+            "choices": [
+                "Black Sabbath",
+                "AC/DC",
+                "Judas Priest",
+                "Iron Maiden"
+            ]
+        },
+        {
+            "text": "Which famous rapper is featured in Jack \u00dc (Skrillex and Diplo)'s 2015 single called \"Febreze\"?",
+            "answer": "2 Chainz",
+            "choices": [
+                "Future",
+                "Kendrick Lamar",
+                "Fatman Scoop",
+                "2 Chainz"
+            ]
+        },
+        {
+            "text": "What is an example of a bacterial pathogen?",
+            "answer": "Cholera",
+            "choices": [
+                "AIDS",
+                "Cholera",
+                "Ringworm",
+                "Measles "
+            ]
+        },
+        {
+            "text": "What type of angle is greater than 90\u00b0?",
+            "answer": "Obtuse",
+            "choices": [
+                "Obtuse",
+                "Straight",
+                "Acute",
+                "Right"
+            ]
+        }
+    ]
+}
