@@ -139,3 +139,75 @@ python main.py
 - Organizing code into multiple files.
 - Working with JSON data.
 - Building a structured quiz application.
+
+  ---
+
+## Week 3 – QuizCraft: API Integration
+
+### Project Description
+
+In Week 3, QuizCraft was enhanced by integrating the Open Trivia Database (OpenTDB) API. This allows users to fetch fresh multiple-choice questions from an online source instead of depending only on locally stored questions.
+
+### New Features
+
+- Integrated the Open Trivia Database API to fetch online questions.
+- Allowed users to select the number of questions.
+- Added difficulty-level selection.
+- Retrieved multiple-choice questions with answer options.
+- Shuffled answer choices randomly.
+- Processed API responses using JSON.
+- Handled HTML-encoded text in API responses.
+- Added error handling for network issues and API request failures.
+- Supported saving online questions as local decks.
+- Allowed saved decks to be played offline.
+
+### Technologies Used
+
+- Python
+- Requests library
+- REST API
+- JSON
+- Open Trivia Database (OpenTDB)
+- Exception Handling
+
+### Project Files
+
+- `main.py` – Main application and quiz menu.
+- `models.py` – Defines classes for questions, decks and quiz sessions.
+- `storage.py` – Handles saving and loading quiz decks and progress.
+- `api.py` – Fetches questions from the OpenTDB API.
+- `check_api.py` – Checks whether API questions can be fetched.
+- `test_api.py` – Used for API testing.
+- `decks.json` – Stores local question decks.
+- `progress.json` – Stores quiz progress.
+
+### How to Run
+
+1. Install Python.
+2. Install the required library:
+
+   `python -m pip install requests`
+
+3. Open the project folder in VS Code.
+4. Open the terminal.
+5. Run:
+
+   `python main.py`
+
+### API Used
+
+Open Trivia Database: https://opentdb.com/
+
+### Learning Outcomes
+
+- Understanding REST API integration.
+- Sending HTTP requests using the Requests library.
+- Retrieving and processing JSON data.
+- Working with external APIs.
+- Understanding exception handling and network errors.
+- Organizing a Python project into multiple modules.
+- Building an application that supports both online and offline quizzes.
+
+### Internship
+
+Developed as part of the SkillMe Python Virtual Internship – Week 3.
